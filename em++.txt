@@ -1,0 +1,8 @@
+iomanager.cpp:5:21: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+    fprintf(stderr, error);
+                    ^~~~~
+iomanager.cpp:8:21: warning: format string is not a string literal (potentially insecure) [-Wformat-security]
+    fprintf(stderr, error);
+                    ^~~~~
+2 warnings generated.
+warning: emitted code will contain very large numbers of local variables, which is bad for performance (build to JS with -O2 or above to avoid this - make sure to do so both on source files, and during 'linking')

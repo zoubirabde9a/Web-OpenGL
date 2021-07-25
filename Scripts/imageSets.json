@@ -1,0 +1,18 @@
+{
+
+ "crossButton" : [
+ 	 {
+	  "path" : "Resources/Cross.png"
+	 },
+	 {
+	  "path" : "Resources/Cross.png" 
+	 },
+	 {
+	  "path" : "Resources/Cross.png"
+	 },
+	 {
+	  "path" : "Resources/Cross.png"
+	 }
+ ]
+
+}

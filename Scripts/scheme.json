@@ -1,0 +1,170 @@
+{
+ "defaultWindow" :  [
+ {
+   "path" : "Resources/AlfiskoSkin.png",
+   "color" : null,
+   "bottomLeft" : [ 0, 583, 8, 8 ],
+   "topLeft" : [ 0, 615, 8, 8 ],
+   "bottomRight" : [ 674, 583, 8, 8 ],
+   "topRight" : [ 674, 615, 8, 8 ],
+   "middle" : [ 7, 591, 8, 8 ],
+   "top" : [ 9, 615, 8, 8 ],
+   "bottom" : [ 9, 583, 8, 8 ],
+   "left" : [ 0, 592, 8, 8 ],
+   "right" : [ 674, 593, 8, 8 ]
+   }
+ ],
+ "defaultEditBox" : [
+ {
+   "path" : "Resources/AlfiskoSkin.png",
+   "color" : null,
+   "bottomLeft" : [ 540, 560, 5, 5 ],
+   "topLeft" : [ 540, 577, 5, 5 ],
+   "bottomRight" : [ 677, 560, 5, 5 ],
+   "topRight" : [ 677, 577, 5, 5 ],
+   "middle" : [ 545, 565, 5, 5 ],
+   "top" : [ 546, 579, 5, 3 ],
+   "bottom" : [ 546, 560, 5, 3 ],
+   "left" : [ 540, 566, 5, 5 ],
+   "right" : [ 677, 566, 5, 5 ]
+   }
+ ],
+ "defaultButton" : [
+ {
+   "path" : "Resources/AlfiskoSkin.png",
+   "color" : null,
+   "bottomLeft" : [ 398, 559, 4, 4 ],
+   "topLeft" : [ 398, 577, 4, 4 ],
+   "bottomRight" : [ 460, 559, 4, 4 ],
+   "topRight" : [ 460, 577, 4, 4 ],
+   "middle" : [ 409, 565, 1, 1 ],
+   "top" : [ 402, 577, 3, 4 ],
+   "bottom" : [ 402, 559, 3, 4 ],
+   "left" : [ 398, 563, 4, 3 ],
+   "right" : [ 460, 563, 4, 3 ]
+ },
+ {
+   "path" : "Resources/AlfiskoSkin.png",
+   "color" : null,
+   "bottomLeft" : [ 398, 531, 4, 4 ],
+   "topLeft" : [ 398, 549, 4, 4 ],
+   "bottomRight" : [ 460, 531, 4, 4 ],
+   "topRight" : [ 460, 549, 4, 4 ],
+   "middle" : [ 409, 537, 1, 1 ],
+   "top" : [ 402, 549, 3, 4 ],
+   "bottom" : [ 402, 531, 3, 4 ],
+   "left" : [ 398, 535, 4, 3 ],
+   "right" : [ 460, 535, 4, 3 ]
+ },
+ {
+   "path" : "Resources/AlfiskoSkin.png",
+   "color" : null,
+   "bottomLeft" : [ 398, 502, 4, 4 ],
+   "topLeft" : [ 398, 520, 4, 4 ],
+   "bottomRight" : [ 460, 502, 4, 4 ],
+   "topRight" : [ 460, 520, 4, 4 ],
+   "middle" : [ 409, 507, 1, 1 ],
+   "top" : [ 402, 520, 3, 4 ],
+   "bottom" : [ 402, 502, 3, 4 ],
+   "left" : [ 398, 506, 4, 3 ],
+   "right" : [ 460, 506, 4, 3 ]
+   },
+   {
+    "path" : "Resources/AlfiskoSkin.png",
+	"color" : [ 128, 128, 128, 255 ],
+	"bottomLeft" : [ 398, 559, 4, 4 ],
+	"topLeft" : [ 398, 577, 4, 4 ],
+	"bottomRight" : [ 460, 559, 4, 4 ],
+	"topRight" : [ 460, 577, 4, 4 ],
+	"middle" : [ 409, 565, 1, 1 ],
+	"top" : [ 402, 577, 3, 4 ],
+	"bottom" : [ 402, 559, 3, 4 ],
+	"left" : [ 398, 563, 4, 3 ],
+	"right" : [ 460, 563, 4, 3 ]
+	}
+],
+"defaultProgressBar" : [
+ {
+   "path" : "Resources/AlfiskoSkin.png",
+   "color" : null,
+   "bottomLeft" : [ 398, 531, 4, 4 ],
+   "topLeft" : [ 398, 549, 4, 4 ],
+   "bottomRight" : [ 460, 531, 4, 4 ],
+   "topRight" : [ 460, 549, 4, 4 ],
+   "middle" : [ 409, 537, 1, 1 ],
+   "top" : [ 402, 550, 3, 3 ],
+   "bottom" : [ 402, 531, 3, 3 ],
+   "left" : [ 398, 535, 4, 3 ],
+   "right" : [ 460, 535, 4, 3 ]
+ }
+],
+ "sWindow" : [
+ {
+   "path" : "Resources/sWindow.png",
+   "color" : null,
+   "bottomLeft" : [ 0, 0, 4, 4 ],
+   "topLeft" : [ 0, 188, 4, 4 ],
+   "bottomRight" : [ 124, 0, 4, 4 ],
+   "topRight" : [ 124, 188, 4, 4 ],
+   "middle" : [ 50, 50, 1, 1 ],
+   "top" : [ 5, 188, 4, 4 ],
+   "bottom" : [ 5, 0, 4, 4 ],
+   "left" : [ 0, 5, 4, 4 ],
+   "right" : [ 124, 5, 4, 4 ]
+ }
+ ],
+ "sDropDownList" : [
+ {
+   "path" : "Resources/sDropDownListNormal.png",
+   "color" : null,
+   "bottomLeft" : [ 0, 0, 4, 4 ],
+   "topLeft" : [ 0, 12, 4, 4 ],
+   "bottomRight" : [ 124, 0, 4, 4 ],
+   "topRight" : [ 124, 12, 4, 4 ],
+   "middle" : [ 5, 5, 120, 8 ],
+   "top" : [ 5, 12, 4, 4 ],
+   "bottom" : [ 5, 0, 4, 4 ],
+   "left" : [ 0, 5, 4, 4 ],
+   "right" : [ 124, 5, 4, 4 ]
+ },
+  {
+   "path" : "Resources/sDropDownListHover.png",
+   "color" : null,
+   "bottomLeft" : [ 0, 0, 4, 4 ],
+   "topLeft" : [ 0, 12, 4, 4 ],
+   "bottomRight" : [ 124, 0, 4, 4 ],
+   "topRight" : [ 124, 12, 4, 4 ],
+   "middle" : [ 5, 5, 120, 8 ],
+   "top" : [ 5, 12, 120, 4 ],
+   "bottom" : [ 5, 0, 120, 4 ],
+   "left" : [ 0, 5, 4, 4 ],
+   "right" : [ 124, 5, 4, 4 ]
+ },
+  {
+   "path" : "Resources/sDropDownListPushed.png",
+   "color" : null,
+   "bottomLeft" : [ 0, 0, 4, 4 ],
+   "topLeft" : [ 0, 12, 4, 4 ],
+   "bottomRight" : [ 124, 0, 4, 4 ],
+   "topRight" : [ 124, 12, 4, 4 ],
+   "middle" : [ 5, 5, 120, 8 ],
+   "top" : [ 5, 12, 120, 4 ],
+   "bottom" : [ 5, 0, 120, 4 ],
+   "left" : [ 0, 5, 4, 4 ],
+   "right" : [ 124, 5, 4, 4 ]
+ },
+  {
+   "path" : "Resources/sDropDownListNormal.png",
+   "color" : [128, 128, 128, 128],
+   "bottomLeft" : [ 0, 0, 4, 4 ],
+   "topLeft" : [ 0, 12, 4, 4 ],
+   "bottomRight" : [ 124, 0, 4, 4 ],
+   "topRight" : [ 124, 12, 4, 4 ],
+   "middle" : [ 5, 5, 120, 8 ],
+   "top" : [ 5, 12, 120, 4 ],
+   "bottom" : [ 5, 0, 120, 4 ],
+   "left" : [ 0, 5, 4, 4 ],
+   "right" : [ 124, 5, 4, 4 ]
+ }
+ ]
+}
